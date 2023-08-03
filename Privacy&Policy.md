@@ -1,4 +1,4 @@
-Privacy
+<h1>Privacy</h1>
 
 This Privacy Policy was last updated on August 3, 2023
 
